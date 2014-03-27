@@ -6,6 +6,4 @@ These are proof of concept projects for some utilities and stuff.
 
 	•	CocoaPodsExample - Tutorial project for integrating various pods into the project.
 
-	•	SMSTest - POC for sending sms from within app.
-
 	•	PageControlExample - An example demonstrating UIScrollView with paging vertically.
